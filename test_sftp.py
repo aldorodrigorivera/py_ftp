@@ -4,9 +4,9 @@ import base64
 from datetime import datetime
 
 # Configuración del servidor FTP
-ftp_host = 'ftp.paebsa.com.mx'
-ftp_user = 'MXG1780'
-ftp_password = 'AMczNJgUdAGDW72p'
+ftp_host = 'f...'
+ftp_user = 'M...'
+ftp_password = 'A...'
 
 # Establecer conexión FTP
 ftp = ftplib.FTP(ftp_host)
